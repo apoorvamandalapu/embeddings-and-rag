@@ -1,0 +1,6 @@
+.env
+requirements.txt
+data/my_chroma_db
+data/my_chroma_db_vertex
+data/embeddings_vertex.pkl
+data/embeddings.pkl

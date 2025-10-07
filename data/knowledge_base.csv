@@ -1,0 +1,21 @@
+id,title,content,category
+1,What is Artificial Intelligence?,Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn.,AI
+2,What is Machine Learning?,Machine Learning (ML) is a subset of AI that enables systems to learn patterns from data without being explicitly programmed.,AI/ML
+3,Supervised Learning,Supervised learning is a type of ML where the model is trained on labeled data to make predictions.,ML
+4,Unsupervised Learning,Unsupervised learning trains models on unlabeled data to find hidden patterns or groupings.,ML
+5,Reinforcement Learning,Reinforcement learning involves training an agent to make sequences of decisions by rewarding desired behaviors.,ML
+6,What are Neural Networks?,"Neural networks are computing systems inspired by the human brain, used for pattern recognition and learning.",ML/Deep Learning
+7,Deep Learning,Deep Learning is a subset of ML that uses multi-layered neural networks to model complex patterns.,Deep Learning
+8,Natural Language Processing,NLP is a branch of AI focused on understanding and generating human language by machines.,NLP
+9,Tokenization,"Tokenization is the process of breaking text into smaller units called tokens, like words or subwords.",NLP
+10,Embeddings,Embeddings are numerical vector representations of text or items that capture semantic meaning.,NLP/Vector
+11,Vector Search,Vector search retrieves information by comparing embeddings to find the most similar items.,RAG
+12,Retrieval-Augmented Generation,RAG combines vector search with generative models to answer queries using retrieved context.,RAG
+13,Transformers,Transformers are neural network architectures that use attention mechanisms for sequence modeling.,Deep Learning/NLP
+14,Attention Mechanism,Attention allows models to focus on relevant parts of input sequences when making predictions.,Deep Learning/NLP
+15,BERT,BERT is a transformer-based model for NLP that understands the context of words in a sentence.,NLP
+16,GPT,GPT is a generative transformer model that can generate human-like text based on input prompts.,NLP
+17,Fine-tuning,Fine-tuning adapts pre-trained models to specific tasks by training on task-specific data.,ML/NLP
+18,Vector Database,Vector databases store embeddings and enable fast similarity search for RAG applications.,RAG
+19,Cosine Similarity,Cosine similarity measures the similarity between two vectors based on the angle between them.,RAG/Vector
+20,Use Cases of RAG,"RAG can be used in chatbots, question answering systems, knowledge bases, and customer support.",RAG
